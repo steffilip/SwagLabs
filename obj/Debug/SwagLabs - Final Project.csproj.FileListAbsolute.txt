@@ -1,0 +1,55 @@
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.abstractions.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.runner.reporters.net452.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.runner.utility.net452.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\SwagLabs - Final Project.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\SwagLabs - Final Project.pdb
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\NuGet.Frameworks.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\System.Collections.Immutable.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\System.Reflection.Metadata.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\WebDriver.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\WebDriver.Support.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.assert.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.core.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.execution.desktop.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\System.Collections.Immutable.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\System.Reflection.Metadata.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\WebDriver.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\WebDriver.Support.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.assert.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.core.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\xunit.execution.desktop.xml
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\obj\Debug\SwagLabs - Final Project.csproj.AssemblyReference.cache
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\obj\Debug\SwagLabs - Final Project.csproj.CoreCompileInputs.cache
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\obj\Debug\SwagLabs - Final Project.csproj.CopyComplete
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\obj\Debug\SwagLabs - Final Project.dll
+C:\PROEKT\SwagLabs\SwagLabs - Final Project\obj\Debug\SwagLabs - Final Project.pdb
